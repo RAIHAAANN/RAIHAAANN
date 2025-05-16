@@ -1,16 +1,29 @@
-## Hi there 👋
+### Halo 👋, Saya Raihan Ardiansah!
+> Junior Web Developer | Mahasiswa Informatika | Suka Belajar Hal Baru 🚀
 
-<!--
-**RAIHAAANN/RAIHAAANN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 **Skill Set**  
+- HTML, CSS, JavaScript  
+- PHP & MySQL  
+- Git & GitHub  
+- [Framework jika ada: Laravel / CodeIgniter / lainnya]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Beberapa Proyek Publik**
+- 🔗 [absensi-karyawan](https://github.com/ariandika79754/absensi-karyawan)
+- 🔗 [study_kasus](https://github.com/raihanardiansah/study_kasus)
+- 🔗 [tugas_pemweb](https://github.com/raihanardiansah/tugas_pemweb)
+
+📫 **Hubungi Saya**  
+- 📧 Email: [email kamu]
+- 🌐 LinkedIn: [link jika ada]
+- 🌍 Website: [jika punya, misalnya portofolio online]
+
+---
+
+📈 **Statistik GitHub**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanardiansah&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanardiansah&layout=compact&theme=radical" height="150"/>
+</p>
