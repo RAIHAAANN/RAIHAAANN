@@ -15,9 +15,8 @@
 - 🔗 [tugas_pemweb](https://github.com/raihanardiansah/tugas_pemweb)
 
 📫 **Hubungi Saya**  
-- 📧 Email: [email kamu]
-- 🌐 LinkedIn: [link jika ada]
-- 🌍 Website: [jika punya, misalnya portofolio online]
+- 📧 Email: rayhanblt579@gmail.com
+
 
 ---
 
